@@ -1,4 +1,5 @@
-export const getImageUrl = (imageName) => {
-  return require(`./assets/${imageName}`, import.meta.url).href;
+// JavaScript
+// Vite / modern bundlers (ESM)
+export const getImageUrl = (imagePath) => {
+  return new URL(`/assets/${imagePath}`, import.meta.url).href;
 };
-//dynmaically imort images from assets folder
