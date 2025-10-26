@@ -23,7 +23,7 @@ export const Experience = () => {
 
         <ul className={styles.history}>
           {history.map((historyItem, id) => {
-            const historySrc = `/assets/history/${historyItem.imageSrc}`;
+            const historySrc = `/assets/${historyItem.imageSrc}`;
             return (
               <li key={id} className={styles.historyItem}>
                 <img src={historySrc} alt={`${historyItem.organisation} Logo`} loading="lazy" />
