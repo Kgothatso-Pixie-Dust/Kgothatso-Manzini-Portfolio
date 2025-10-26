@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Techincal Mentor",
+    "organisation": "WethinkCode",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Leader", "Mentor junior developers", "Conduct technical workshops"],
+    "imageSrc": "history/WethinkCode.png"
+  },
+  {
+    "role": "Research and Administration Assistant",
+    "organisation": "Asceng EPC Services Provider ",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": ["Conduct administrative and research support tasks to assist engineering project teams", "Compile and organize documents for internal reporting", "Source and identify tender opportunities aligned with the company’s engineering and construction services],"],
+    "imageSrc": "history/Asceng.png"
+  }
+]

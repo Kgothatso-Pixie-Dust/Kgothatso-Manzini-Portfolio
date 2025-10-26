@@ -4,6 +4,7 @@ import styles from './App.module.css';
 import { Navbar } from './componets/Navbar/Navbar.jsx';
 import { Hero } from './componets/Hero/Hero.jsx';
 import { About } from './componets/About/About.jsx';
+import { Experience } from './componets/Experience/Experience.jsx';
 
 function App() {
 
@@ -11,7 +12,8 @@ function App() {
     <div className={styles.App}>
       <Navbar />  
       <Hero />
-      <About/>    
+      <About/>
+      <Experience/>    
               
     </div>
   );}
