@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Snake-Java-Game",
+    "imageSrc": "projects/project.png",
+    "description": "A simple, classic Snake game implemented in Java using Swing. Move the snake, eat food, grow longer, and try not to collide with walls or yourself",
+    "skills": ["Java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Kgothatso-Pixie-Dust/Snake-Java-Game"
+  },
+  {
+    "title": "TheNetWorkCo-Leave-Form",
+    "imageSrc": "projects/project.png",
+    "description": "A modern, secure leave (time‑off) request and approval application for teams. Employees can submit leave.",
+    "skills": ["Java", "JavaScript", "HTML", "CSS", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Kgothatso-Pixie-Dust/TheNetWorkCo-Leave-Form"
+  },
+  {
+    "title": "Flower-recognition",
+    "imageSrc": "projects/project.png",
+    "description": "A simple end-to-end workflow for training and evaluating a convolutional neural network (CNN) to classify flower images. The project is centered around an interactive Jupyter Notebook, covering data loading, augmentation, training, evaluation, and basic inference.",
+    "skills": ["Python", "Libraries:", "TensorFlow/Keras", "NumPy", "Pandas", "Matplotlib", "Seaborn", "scikit-learn", "OpenCV", "Pillow", "TQDM", "KaggleHub"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Kgothatso-Pixie-Dust/Flower-recognition-"
+  }
+]

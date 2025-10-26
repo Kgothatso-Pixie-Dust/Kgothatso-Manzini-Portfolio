@@ -5,6 +5,8 @@ import { Navbar } from './componets/Navbar/Navbar.jsx';
 import { Hero } from './componets/Hero/Hero.jsx';
 import { About } from './componets/About/About.jsx';
 import { Experience } from './componets/Experience/Experience.jsx';
+import { Projects } from './componets/Projects/Projects.jsx';
+import { Contact } from './componets/Contact/Contact.jsx';
 
 function App() {
 
@@ -14,7 +16,8 @@ function App() {
       <Hero />
       <About/>
       <Experience/>
-              
+      <Projects/>
+      <Contact/>              
     </div>
   );}
 
